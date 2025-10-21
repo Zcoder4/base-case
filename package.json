@@ -1,0 +1,22 @@
+{
+  "name": "zome-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@itsukichan/baileys": "^7.3.2",
+    "chalk": "^5.6.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^11.3.2",
+    "path": "^0.12.7",
+    "readline": "^1.3.0",
+    "url": "^0.11.4"
+  }
+}
